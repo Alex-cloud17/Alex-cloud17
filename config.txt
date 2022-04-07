@@ -1,0 +1,4 @@
+{
+	"ip": "BrutualSurvivalSMPV2.aternos.me",
+	"name": "BrutualSurvivalSMPV2",
+	"port":"29060"}
